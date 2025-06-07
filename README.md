@@ -8,7 +8,7 @@ I'm passionate about technology, digital privacy, and problem solving. I’m eag
 
 <h2>⌨️ I’m currently working on</h2>
 
-- IT & Cybersecurity Lab
+- [IT & Cybersecurity Lab](https://github.com/JoB231/2025-06-Mission-Inc.-Lab)
 
 <h2> 💻️ Connect with me:</h2>
 
