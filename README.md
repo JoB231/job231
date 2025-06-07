@@ -8,9 +8,8 @@ After spending over 13 years in the film and TV industry, I've made the exciting
 
 *   🌍  I'm based in Montreal, QC, CA
                   ### Socials
-                  
-                  
-                <p align="left">
+
+<p align="left">
                       <a href="https://www.github.com/job231" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
