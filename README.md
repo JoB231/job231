@@ -13,7 +13,7 @@ I'm passionate about technology, digital privacy, and problem solving. I’m eag
 <h2> 💻️ Connect with me:</h2>
 
 [<img align="left" alt="JohannBel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JohannBel | Credly" width="22px" src="https://img.icons8.com/color/512/credly.png" />][credly]
+[<img align="left" alt="JohannBel | Credly" width="32px" src="https://img.icons8.com/color/512/credly.png" />][credly]
 
 [linkedin]: https://linkedin.com/in/johann-bel-404591282
 [credly]: https://www.credly.com/users/johann-bel
